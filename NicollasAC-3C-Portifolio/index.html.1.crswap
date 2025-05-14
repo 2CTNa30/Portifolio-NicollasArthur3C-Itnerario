@@ -12,25 +12,26 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/46699378-retrato-ou-a-avatar-do-uma-lindo-jovem-homem-com-preto-cabelo-ilustracao-gratis-vetor.jpg" alt="avatar do nicollas" class="rounded-circle" width="150" height="150"
+        <img src="img" alt="avatar do nicollas" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Portifolio do Nicollas Arthur</p>
         <h1>Eu sou Tecnico em Informatica</h1>
         <p>Sou Tecnico em Informatica com formação específica em montagem e manutenção de computadores.</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">Montegem de computadores</p>
-            <p class="badge bg-secondary">Instalação de sistema operacional</p>
-            <p class="badge bg-secondary">Limpeza de computadores</p>
+            <p class="badge bg-secondary">HTML</p>
+            <p class="badge bg-secondary">CSS</p>
+            <p class="badge bg-secondary">JavaScript</p>
+            <p class="badge bg-secondary">Scratch</p>
         </div>
     </header>
     <main class="container mt-5">
-        <h2>Meus projetos e Certificados</h2>
+        <h2>Meus projetos</h2>
         <div class="row">
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="projetos">
+                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
                         <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
